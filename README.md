@@ -11,9 +11,9 @@ _DeleteFileWhenCreated_ registers a file watcher to detect when the file is crea
 Usage
 -----
 
-1. If you simply don't care about the sources, download the latest version from the [releases](https://github.com/Otiel/DeleteFileWhenCreated/releases) page as a zip file.
-2. Open a command line (Win+R -> cmd).
-2. Run `"C:\[path to exe]\Latest version\DeleteFileWhenCreated.exe" "C:\[path to file]\myFileToDelete"`.
+1. [Download](https://github.com/Otiel/DeleteFileWhenCreated/releases/latest) the latest version from the releases page as a zip file.
+2. Open a command line (Win+R → cmd).
+2. Run `"C:\[path to exe]\DeleteFileWhenCreated.exe" "C:\[path to file]\myFileToDelete"`.
 
 Bugs/Ideas
 ----------
