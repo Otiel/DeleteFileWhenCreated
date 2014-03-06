@@ -12,7 +12,7 @@ Usage
 -----
 
 1. [Download](https://github.com/Otiel/DeleteFileWhenCreated/releases/latest) the latest version from the releases page as a zip file.
-2. Open a command line (Win+R → cmd).
+2. Open a command line (<kbd>Win</kbd>+<kbd>R</kbd> → cmd).
 2. Run `"C:\[path to exe]\DeleteFileWhenCreated.exe" "C:\[path to file]\myFileToDelete"`.
 
 Bugs/Ideas
